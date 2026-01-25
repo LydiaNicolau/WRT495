@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 791b37c5-729e-4c60-91ce-c38200c05830
+  title: Benchmarking proposal
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/LydiaNicolau/WRT495
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
