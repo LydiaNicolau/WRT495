@@ -1,4 +1,8 @@
-﻿Yes, Because How Could I Say No?
+---
+title: <Better_Title>
+---
+
+Yes, Because How Could I Say No?
 The Autoethnography of a First-Generation U.S. Citizen: Navigating Identity and Culture as a Child of Immigrant Parents
 Lydia Nicolau
 University of Rhode Island 
@@ -112,4 +116,5 @@ Merriam-Webster. (n.d.). Identity. In Merriam-Webster.com dictionary. Retrieved 
 Identity. (n.d.). Retrieved from https://www.childrenssociety.org.uk/information/young-people/well-being/resources/identity 
 Lopez, J. (2023). An identity crisis for children of Immigrants. Retrieved from https://dailytrojan.com/2023/01/26/an-identity-crisis-for-children-of-immigrants/ 
 Mamacita, M. (2023). First Gen immigrant, first gen student...and first gen professor. Retrieved from https://medium.com/@millennialmamacita/first-gen-immigrant-first-gen-student-and-first-gen-professor-f8f596fe2c09 
+
 Portuguese Population by State 2024. (n.d.). Retrieved from https://worldpopulationreview.com/state-rankings/portuguese-population-by-state
